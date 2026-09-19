@@ -1,1 +1,3 @@
-# 310_lab3
+gcc -nostdlib -no-pie hamming.s -o hamming
+
+./hamming
